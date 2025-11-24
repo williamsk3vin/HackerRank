@@ -1,0 +1,3 @@
+Select count(*)
+FROM CITY
+WHERE POPULATION > 100000;
